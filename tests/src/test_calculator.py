@@ -13,3 +13,4 @@ def test_substract():
 def test_multiply():
     assert cal.multiply(2, 3) == 6
     assert cal.multiply(4, 5) == 20
+    assert cal.multiply(3, 4) == 12
